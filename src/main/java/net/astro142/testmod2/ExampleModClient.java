@@ -1,4 +1,4 @@
-package net.AstroX2008.testmod2;
+package net.astro142.testmod2;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
